@@ -1,0 +1,56 @@
+/***********************************************/
+/***********************************************/
+/*********************header**************************/
+
+/*********************banner**************************/
+
+/*********************content**************************/
+
+.section {
+	
+}
+.quiz .sidebar_body,
+.recommend .section_body {
+	height: 165px;
+}
+.recommend .wrap {
+	padding-top: 10px;
+	width: 113%;
+}
+.recommend a  {
+	display: inline-block;
+	margin-bottom: 24px;
+	color: #333333;
+	font-size: 14px;
+	margin-right: 60px;
+}
+.recommend em {
+	color: #000000;
+}
+.recommend a:hover,
+.recommend a:hover em {
+	color: #ff8000;
+}
+.quiz ul {
+
+}
+.quiz ul li { 
+	margin-bottom: 16px;
+	padding-left: 16px;
+	background: url('../images/tools_ico.gif') no-repeat left center;
+}
+.quiz ul li a:hover {
+	 color: #ff3200;
+	 text-decoration: underline;
+} 
+.quiz ul li a {
+	color: #333333;
+}
+.honour .wrap {
+	width: 107%;
+}
+.honour .section_body img {
+	margin-bottom: 7px;
+	margin-right: 52px;
+	display: inline-block;
+}
